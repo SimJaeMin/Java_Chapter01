@@ -12,8 +12,8 @@ public class Gugudan02 {
 			for(i=2;i<10;i++)
 			{
 				result=i*j;
-				System.out.print(i+"*"+j+"="+result+"\t");
-				System.out.print("|");
+				System.out.print(i+"*"+j+"="+result+"");
+				System.out.print("\t\t");
 			}
 			System.out.println();
 						
